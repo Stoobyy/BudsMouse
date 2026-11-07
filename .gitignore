@@ -1,0 +1,7 @@
+bin/
+obj/
+app/
+.vs/
+*.user
+settings.json
+self-test-result.txt
